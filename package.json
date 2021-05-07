@@ -1,0 +1,23 @@
+{
+  "name": "Marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerheyJankowsky/Archmove---Architech-Marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerheyJankowsky/Archmove---Architech-Marketplace/issues"
+  },
+  "homepage": "https://github.com/SerheyJankowsky/Archmove---Architech-Marketplace#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
